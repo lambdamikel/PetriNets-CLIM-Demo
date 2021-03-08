@@ -3,7 +3,7 @@ A Simple Petri Net Editor and Simulator written in Common Lisp with CLIM (Common
 
 A simple Petri Net editor and simulator written in Common Lisp using CLIM (Common Lisp Interface Manager) for the GUI. 
 
-![poster](pics/petrinet.jpg)
+![poster](pics/petrinet.png)
 
 This was written in 2003 for a one [hour presentation / lecture about CLIM](./clim.pdf) taught by the author to CS students at the University of Hamburg.
 
