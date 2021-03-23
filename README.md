@@ -14,7 +14,7 @@ This simple CLIM Petri Net editor & simulator was used as a running example in t
 
 Use [`petri2.lisp`](src/petri2.lisp).  
 
-## Linux / Motif CLIM 
+## Windows CLIM 
 
 ![Windows 1](pics/windows-1.png)
 
